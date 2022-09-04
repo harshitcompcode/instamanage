@@ -8,7 +8,7 @@ this is a tool to unfollow those who haven't followed you back. it does it by pu
 ```
 pip install requests
 pip install 'requests[security]'
-git clone https://github.com/harshitcompcode/instamanage-master
+git clone https://github.com/harshitcompcode/instamanage
 cd instamanage
 cp config_sample.json config.json
 python instamanage.py
